@@ -259,6 +259,15 @@ section p {
     margin-bottom: 10px;
 }
 
+
+.textEscuela{
+    font-size: 20px;
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    padding-top: 30px;
+
+}
 #twitter-feed img {
     border: 1px solid #ddd;
     box-shadow: 2px 3px 3px #ddd;
