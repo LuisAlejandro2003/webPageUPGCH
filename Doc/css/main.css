@@ -7,9 +7,13 @@ body{
 	color:#777;
 }
 
+.texto-personalizado {
+    font-size: 28px; /* Cambia "20px" por el tamaño de letra que prefieras */
+}
 
 p{
 	margin:0;
+    
 }
 
 .reference-list {
