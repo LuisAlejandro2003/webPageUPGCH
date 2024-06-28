@@ -2066,7 +2066,7 @@ hr {
   color: #0f61ef;
 }
 .header-area .main-header {
-  padding: 0px 90px;
+  padding: 0px 0px;
 
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
